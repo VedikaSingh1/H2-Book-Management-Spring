@@ -1,0 +1,9 @@
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\BookManagementSpringApplication.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\controller\BookController.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\model\BookModel.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\repository\BookRepository.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\services\BookNotFoundException.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\services\BookService.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\services\BookServiceImpl.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\services\DuplicateBookException.java
+C:\Users\SESA776885\Desktop\Misc\H2_BookManagementSpring\src\main\java\com\example\bookManagement\BookManagementSpring\services\GlobalExceptionHandler.java
